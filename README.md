@@ -1,7 +1,7 @@
 # Applied-AI-miniproject-group8
 
-Anusha Talapaneni (anutal-2@student.ltu.se)
-Dipanwita Dash (dipdas-2@student.ltu.se)
+Anusha Talapaneni (anutal-2@student.ltu.se),
+Dipanwita Dash (dipdas-2@student.ltu.se),
 Meenakshi Subhash Chippa
 
 ## Project : Multivariate Time Series Forecasting with LSTMs  (Air Pollution Forecasting)
@@ -94,8 +94,8 @@ Experiment 3: Test RMSE: 27.814
                   Mean Absolute Error: 16.479 
                   R² Score: 0.909
                        
-Experiment 4: SVM : 83.06
-                  Random Forest :  74.71
+Experiment 4: SVM RMSE : 83.06
+        Random Forest RMSE : 74.71
 
 ## Conclusion
 * Thorough exploration of multivariate time series forecasting
