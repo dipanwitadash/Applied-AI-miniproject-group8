@@ -1,5 +1,12 @@
 # Applied-AI-miniproject-group8
 
+Anusha Talapaneni (anutal-2@student.ltu.se)
+Dipanwita Dash (dipdas-2@student.ltu.se)
+Meenakshi Subhash Chippa
+
+## Project : Multivariate Time Series Forecasting with LSTMs  (Air Pollution Forecasting)
+
+
 ## Project Introduction
 Aim of our project is to “forecast air pollution” using LSTM which is type of RNN.
 
