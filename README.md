@@ -2,7 +2,7 @@
 
 Anusha Talapaneni (anutal-2@student.ltu.se),
 Dipanwita Dash (dipdas-2@student.ltu.se),
-Meenakshi Subhash Chippa
+Meenakshi Subhash Chippa (meechi-2@student.ltu.se)
 
 ## Project : Multivariate Time Series Forecasting with LSTMs  (Air Pollution Forecasting)
 
