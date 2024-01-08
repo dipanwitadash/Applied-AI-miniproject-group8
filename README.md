@@ -97,6 +97,7 @@ Experiment 3: Test RMSE: 26.371
 Experiment 4: SVM RMSE : 83.06
         Random Forest RMSE : 74.71
 
+#### Please note - Experiment 2 was rerun after recording the presentation and the RMSE changed to 26.403 since there was no seed defined. 
 ## Conclusion
 * Thorough exploration of multivariate time series forecasting
 
