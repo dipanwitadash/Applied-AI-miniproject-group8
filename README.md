@@ -90,9 +90,9 @@ Experiment 1: Test RMSE of 26.496
 
 Experiment 2: Test RMSE: 26.185
 
-Experiment 3: Test RMSE: 27.814
-                  Mean Absolute Error: 16.479 
-                  R² Score: 0.909
+Experiment 3: Test RMSE: 26.371
+                  Mean Absolute Error: 14.037 
+                  R² Score: 0.918
                        
 Experiment 4: SVM RMSE : 83.06
         Random Forest RMSE : 74.71
