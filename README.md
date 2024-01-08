@@ -20,8 +20,17 @@ Data Preparation:
 * Integer encoding of a categorical variable(wind direction).
 * Normalization of all features.
 
+Data Preprocessing:
 
-Transforming Data for Supervised Learning:
+* Parsing Dates (datetime column)
+* Dropping Unnecessary Column
+* Renaming Columns: e.g., 'pollution', 'dew', 'temp', 'press', 'wnd_dir', 'wnd_spd', 'snow', 'rain
+* Handling Missing Values
+* Discarding Initial Rows: The first 24 hours of data are dropped, as they may not be relevant for analysis.
+* Label Encoding: The 'wnd_dir' (wind direction) column, which is categorical, is encoded into numeric format using LabelEncoder.
+* Data Normalization: The features are normalized using MinMaxScaler to scale them to a range between 0 and 1.
+
+	Transforming Data for Supervised Learning:
 The supervised learning problem will be framed as predicting pollution at the current hour (t) based on previous pollution measurements and weather conditions..
 
 Reshaping for LSTM Model: 
