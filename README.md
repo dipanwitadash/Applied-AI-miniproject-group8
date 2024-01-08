@@ -6,6 +6,9 @@ Meenakshi Subhash Chippa
 
 ## Project : Multivariate Time Series Forecasting with LSTMs  (Air Pollution Forecasting)
 
+YouTube link: https://www.youtube.com/watch?v=y-r6IXs00oo
+
+The presentation document in pdf format, is part of GitHub as well.
 
 ## Project Introduction
 Aim of our project is to “forecast air pollution” using LSTM which is type of RNN.
