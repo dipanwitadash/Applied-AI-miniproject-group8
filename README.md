@@ -8,7 +8,7 @@ Meenakshi Subhash Chippa
 
 YouTube link: https://www.youtube.com/watch?v=y-r6IXs00oo
 
-The presentation document in pdf format, is part of GitHub as well.
+The presentation document in pdf format, is part of GitHub as well - D7041E_Miniproject_Group8.pdf
 
 ## Project Introduction
 Aim of our project is to “forecast air pollution” using LSTM which is type of RNN.
@@ -96,3 +96,17 @@ Experiment 3: Test RMSE: 27.814
                        
 Experiment 4: SVM : 83.06
                   Random Forest :  74.71
+
+## Conclusion
+* Thorough exploration of multivariate time series forecasting
+
+* Detailed analysis of LSTM networks and comparison with traditional models
+
+* Results highlighting LSTM's capability with a strong R² score of 0.918
+
+* RMSE values indicating the challenging nature of environmental forecasting
+
+* Insightful comparative analysis against Random Forest and Support Vector Regressor models
+
+* Potential practical applications in environmental monitoring and policy making.
+
