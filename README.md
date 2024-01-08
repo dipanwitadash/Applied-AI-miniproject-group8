@@ -16,10 +16,6 @@ Our project covers various experiments which involves various steps in general:
 ## Dataset - pollution.csv
 
 ## 1st Experiment (d7041e-project-grp8-exp1.ipynb)
-Data Preparation:
-* Integer encoding of a categorical variable(wind direction).
-* Normalization of all features.
-
 Data Preprocessing:
 
 * Parsing Dates (datetime column)
