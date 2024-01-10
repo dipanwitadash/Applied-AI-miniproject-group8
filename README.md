@@ -10,6 +10,15 @@ YouTube link: https://www.youtube.com/watch?v=y-r6IXs00oo
 
 The presentation document in pdf format, is part of GitHub as well - D7041E_Miniproject_Group8.pdf
 
+## Instruction for executing the notebooks
+All notebooks were created and execuetd in kaggle. If someone wants to reexecute, we recommend to do directly in kaggle with the steps as follows:
+* Download the notebooks from github
+* Import the notebooks in Kaggle (You need to have a kaggle account or register yourself)
+* Download the dataset and import the same in kaggle
+* Make sure to keep the directory name same "air-pollution-data" as in the code for the dataset 
+* The code should run as it is after that
+In order to execute in local PC, the dependencies need to be installed through PIP.
+
 ## Project Introduction
 Aim of our project is to “forecast air pollution” using LSTM which is type of RNN.
 
